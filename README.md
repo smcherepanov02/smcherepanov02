@@ -81,13 +81,12 @@
 
 ## 🪴 Практика и стажировка
 [<img src="/internship.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/smcherepanov02/smcherepanov02/refs/heads/main/internship.png)
-[<img src="/stepik.png" width="280px" hspace="10px" alt="Сертификат 4fresh»">](https://raw.githubusercontent.com/smcherepanov02/smcherepanov02/refs/heads/main/stepik.png)
 
 <br>
 
 ## 🎒 Образование
 [<img src="/diploma-with-number_ru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/refs/heads/main/diploma-with-number_ru.png)
-[<img src="/Letter12.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter12.png)
+[<img src="/stepik.png" width="280px" hspace="10px" alt="Сертификат 4fresh»">](https://raw.githubusercontent.com/smcherepanov02/smcherepanov02/refs/heads/main/stepik.png)
 
 <br>
 <br>
