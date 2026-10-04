@@ -84,7 +84,7 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/junior" width="280px" hspace="10px" alt="junior»">](https://raw.githubusercontent.com/smcherepanov02/smcherepanov02/refs/heads/main/Junior.png)
+[<img src="/Middle.png" width="280px" hspace="10px" alt="Middle»">](https://raw.githubusercontent.com/smcherepanov02/smcherepanov02/refs/heads/main/Middle.png)
 [<img src="/stepik.png" width="280px" hspace="10px" alt="Сертификат 4fresh»">](https://raw.githubusercontent.com/smcherepanov02/smcherepanov02/refs/heads/main/stepik.png)
 
 <br>
