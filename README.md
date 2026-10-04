@@ -84,7 +84,7 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma-with-number_ru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/refs/heads/main/diploma-with-number_ru.png)
+[<img src="/Junior" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/smcherepanov02/smcherepanov02/refs/heads/main/Junior.png)
 [<img src="/stepik.png" width="280px" hspace="10px" alt="Сертификат 4fresh»">](https://raw.githubusercontent.com/smcherepanov02/smcherepanov02/refs/heads/main/stepik.png)
 
 <br>
